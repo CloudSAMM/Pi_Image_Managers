@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+python-decouple
+dnspython
+pydantic
+boto3==1.17.51
