@@ -4,6 +4,7 @@
 ## Install Software
 ### Step 1
 Turn on the Pi and cd into the directory that you want this application to live. Then run the following command:
+
 ```git clone https://github.com/matthew-sessions/Pi_Image_Managers.git```
 
 ### Step 2
