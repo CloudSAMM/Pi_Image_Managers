@@ -1,12 +1,12 @@
-# Pi Image Manager
+# Pi Image Manager (Automatically save images on Vultr Cloud )
 
-## Getting Started
+## Install Software
 ### Step 1
 Turn on the Pi and cd into the directory that you want this application to live. Then run the following command:
 ```git clone https://github.com/matthew-sessions/Pi_Image_Managers.git```
 
 ### Step 2
-cd into Pi_Image_Managers
+cd into Pi_Image_Managers folder
 
 ### Step 3
 You will want to edit the .env file. You can do so by running the following:
