@@ -1,4 +1,5 @@
-# Pi Image Manager (Automatically save images on Vultr Cloud )
+# Pi Image Manager 
+(RPi program to automatically copy images from RPi to Vultr Cloud )
 
 ## Install Software
 ### Step 1
