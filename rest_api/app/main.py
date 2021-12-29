@@ -14,7 +14,7 @@ app.add_middleware(
 )
 
 
-@app.get("/api/query")
+@app.get("/query")
 async def query(
     bucket: str = None, year: str = None, month: str = None, day: str = None
 ):
