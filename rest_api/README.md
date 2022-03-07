@@ -4,6 +4,6 @@ The following is a high-level design for how the commands can be sent to the Ras
 This design has three core components:
 * The Raspberry Pi Cameras running a program that connects to the cloud
 * The Cloud application (Vultr)
-** test
+  * test
 
 ![](https://github.com/CloudSAMM/Pi_Image_Managers/blob/main/command_center.png "")
